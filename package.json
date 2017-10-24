@@ -1,0 +1,23 @@
+{
+  "name": "vue-cuihovah-ueditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuihovah/vue-cuihovah-ueditor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuihovah/vue-cuihovah-ueditor/issues"
+  },
+  "homepage": "https://github.com/cuihovah/vue-cuihovah-ueditor#readme"
+}
