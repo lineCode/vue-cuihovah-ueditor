@@ -1,6 +1,6 @@
 # vue-cuihovah-ueditor
 
-利用
+将ueditor添加了修改mathjax公式的功能，封装成了Vue组件
 
 ## Examples
 [Examples Page](https://github.com/cuihovah/vue-cuihovah-ueditor/tree/master/examples)
