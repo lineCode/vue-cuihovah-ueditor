@@ -29269,7 +29269,7 @@ UE.ui = baidu.editor.ui = {};
                     if (opt.initialFrameHeight) {
                         opt.minFrameHeight = opt.initialFrameHeight;
                     } else {
-                        opt.initialFrameHeight = opt.minFrameHeight = holder.offsetHeight;
+						opt.initialFrameHeight = opt.minFrameHeight = holder.offsetHeight;
                     }
                     for(var i = 0 ,ci;ci=parents[i];i++){
                         ci.style.display =  displays[i]

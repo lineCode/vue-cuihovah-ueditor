@@ -42,9 +42,7 @@
 					if(window && window.$ && !that.lock){
 						that.lock = true;
 						var a = that.ue.getContent();
-						debugger;
 						a = that._pRender(a);
-						debugger;
 						that.contentText = a;
 						that.exportData(a);
 						setTimeout(function(){
