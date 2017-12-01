@@ -1819,6 +1819,7 @@ div.edui-box {
     background-color: #fff5d4;
     border: 1px solid #dcac6c;
 }
+
 /*弹出菜单*/
 .edui-default .edui-shortcutmenu {
     padding: 2px;
@@ -1903,5 +1904,4 @@ div.edui-box {
 }
 
 div.edui-for-insertkityformula {
-	display: none !important;
 }
