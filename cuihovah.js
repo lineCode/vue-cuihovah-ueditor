@@ -22,9 +22,9 @@ function start_edit(dom){
 	var _this = $(this);
 	var latex = $(dom).attr('data-latex');
 
-	setTimeout(function(){
-		window.parent.g_kfDialog.open();
-	}, 200)
+	// setTimeout(function(){
+	// 	window.parent.g_kfDialog.open();
+	// }, 100)
 }
 
 function remove_content(em){
