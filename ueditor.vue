@@ -175,7 +175,7 @@
     }
 </script>
 
-<style lang="sass" rel="stylesheet/scss" scoped>
+<style>
 	.ueditor {
 		width: 90%;
 		margin-left: auto;
@@ -184,20 +184,20 @@
 		border: 1px solid #a1a1a1;
 		padding: 10px;
 		border-radius: 10px;
-		button {
-			background-color: white;
-			border-radius: 15px;
-			padding: 5px;
-			margin: 5px 10px 5px 0px;
-		}
-		.pre-text {
-			padding: 20px 10px;
-			border: 1px solid #a1a1a1;
-			background-color: #f5f5f5;
-			min-height: 80px;
-			border-radius: 10px;
-			margin-left: auto;
-			margin-right: auto;
-		}
+	}
+	.ueditor button {
+		background-color: white;
+		border-radius: 15px;
+		padding: 5px;
+		margin: 5px 10px 5px 0px;
+	}
+	.ueditor .pre-text {
+		padding: 20px 10px;
+		border: 1px solid #a1a1a1;
+		background-color: #f5f5f5;
+		min-height: 80px;
+		border-radius: 10px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 </style>
